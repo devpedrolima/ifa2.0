@@ -1,0 +1,10 @@
+.glassed-dark {
+  width: 400px;
+  height: 500px;
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  background-color: #24262b52;
+  border-radius: 12px;
+  border: 1px solid #24262b52;
+}
+
